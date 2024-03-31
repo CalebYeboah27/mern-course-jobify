@@ -1,5 +1,5 @@
 
-# Jobify with MERN
+# Jobify
 
 #### Track Your Job Search
 
